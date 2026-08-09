@@ -62,6 +62,7 @@ Serves the production build locally so you can sanity-check it before deploying.
 prism-pulse-ar/
 ├── .gitignore
 ├── index.html
+├── package-lock.json
 ├── package.json
 ├── README.md
 └── src/
