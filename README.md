@@ -58,6 +58,7 @@ Serves the production build locally so you can sanity-check it before deploying.
 
 ## Project Structure
 
+```
 prism-pulse-ar/
 ├── .gitignore
 ├── index.html
@@ -69,6 +70,7 @@ prism-pulse-ar/
     ├── sound.js
     ├── style.css
     └── visuals.js
+```
 
 ## Controls
 
